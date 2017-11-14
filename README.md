@@ -1,1 +1,2 @@
 # FAQAngularApp
+# A web app that users can input questions & answers in a list format as well a view answers and delete questions and answers using HTML, CSS, Angular, Bootstrap, Local Storage with JSON Parsing
